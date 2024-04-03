@@ -1,0 +1,7 @@
+Steps to run
+
+Our .jar file is stored with filename 2005.jar.
+
+To run the game:
+
+Type in the terminal java -jar 2005.jar
